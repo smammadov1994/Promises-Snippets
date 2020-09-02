@@ -1,5 +1,6 @@
 ### Promises-Snippets
 
-![Capture](https://user-images.githubusercontent.com/52431957/91917807-ffd6cd80-ec8e-11ea-8914-e23ff0ad377a.PNG)
+![Capture](https://user-images.githubusercontent.com/52431957/91917977-84295080-ec8f-11ea-8976-1698dd87490f.PNG)
+
 
 These are my snippets to Promises.
